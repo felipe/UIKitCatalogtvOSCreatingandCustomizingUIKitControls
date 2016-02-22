@@ -680,7 +680,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = "$(SRCROOT)/UIKitCatalog Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.UIKitCatalog.UIKitCatalog-Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bb.UIKitCatalog-Extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -691,7 +691,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = "$(SRCROOT)/UIKitCatalog Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.UIKitCatalog.UIKitCatalog-Extension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.bb.UIKitCatalog-Extension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
